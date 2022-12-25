@@ -89,5 +89,3 @@ function desencriptar_texto(texto) {
     }
     return texto_encriptado;
 }
-
-
